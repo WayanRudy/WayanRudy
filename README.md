@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&logo=Coded%20By&logoColor=white" alt="Code By" />
   </a>
   <a href="#" rel="nofollow">
-    <img src="https://img.shields.io/badge/Wayan%20Rudi-FFFFFF?style=for-the-badge&logo=WayanRudi&logoColor=white" alt="Wayan Rudy" />
+    <img src="https://img.shields.io/badge/Wayan%20Rudy-FFFFFF?style=for-the-badge&logo=WayanRudy&logoColor=white" alt="Wayan Rudy" />
   </a>
 </div>
 <div align="center">
